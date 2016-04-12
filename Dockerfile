@@ -5,4 +5,5 @@ RUN pip install -U --no-cache-dir \
     Flask \
     Flask-WTF \
     gevent \
-    pymongo
+    pymongo \
+    SQLAlchemy
